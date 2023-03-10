@@ -6,7 +6,7 @@ import App from "../App";
  export const RouteConfig : React.FunctionComponent<any> = () =>{
     return(
         <Routes>
-            <Route path='/' element={<NavBarComponent/>} />
+            <Route path='/mavvex' element={<NavBarComponent/>} />
         </Routes>
     );
  }
