@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mavvex/static/css/main.e6c13ad2.css",
+    "main.js": "/mavvex/static/js/main.61036278.js",
+    "static/js/787.2bc0aba7.chunk.js": "/mavvex/static/js/787.2bc0aba7.chunk.js",
+    "index.html": "/mavvex/index.html",
+    "main.e6c13ad2.css.map": "/mavvex/static/css/main.e6c13ad2.css.map",
+    "main.61036278.js.map": "/mavvex/static/js/main.61036278.js.map",
+    "787.2bc0aba7.chunk.js.map": "/mavvex/static/js/787.2bc0aba7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.61036278.js"
+  ]
+}
